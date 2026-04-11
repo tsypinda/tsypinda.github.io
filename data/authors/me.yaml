@@ -57,16 +57,26 @@ education:
     start: 2014-09-01
     end: 2025-06-30
 
-# experience:
-#   - role: 
-#     org: 
-#     start: 
-#     summary: |
-#       
-#     button:
-#       text: View portfolio
-#       url: /
-#       icon: hero/arrow-down-tray
+experience:
+  - role: Студент (бакалавриат)
+    org: РУДН, Факультет физико-математических и естественных наук
+    start: 2025-09-01
+    end: 2029-06-30
+    summary: |
+      Направление «Прикладная информатика». Изучаю основы программирования, дискретную математику, компьютерную алгебру, алгоритмы и структуры данных.
+    button:
+      text: Узнать о направлении
+      url: https://eng.rudn.ru/ffmen
+      icon: hero/arrow-right
+  - role: Участник кружка по английскому языку
+    org: РУДН
+    start: 2025-09-01
+    summary: |
+      Регулярные встречи для разговорной практики, обсуждение фильмов, статей и актуальных тем. Выступал с устными докладами на английском.
+    button:
+      text: Подробнее о кружках
+      url: https://rudn.ru/student-life/clubs
+      icon: hero/arrow-right
 
 skills:
   - name: Технические навыки
@@ -95,8 +105,11 @@ languages:
     label: Читаю профессиональную литературу
 
 awards:
-  # - title: 
-  #   awarder: 
-  #   date: 
-  #   summary: 
-  #   icon: hero/trophy
+  - title: "Введение в Linux"
+    awarder: Stepik (Институт биоинформатики)
+    date: "2026-03-20"
+    summary: |
+      Успешно завершил курс для начинающих пользователей Linux. Изучил установку системы, базовую работу в графическом интерфейсе и командной строке (терминале), основы удалённой работы на сервере и начальные навыки написания bash-скриптов.
+    url: "https://freeimage.host/i/BV2GUF9"
+    icon: hero/computer-desktop
+
