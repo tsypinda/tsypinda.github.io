@@ -23,16 +23,51 @@ affiliations:
     url: https://www.rudn.ru/
 
 links:
-  - icon: at-symbol
-    url: mailto:1032253633@rudn.ru
-    label: E-mail Me
-  - icon: brands/github
-    url: https://github.com/tsypinda
-  # Раскомментируй если есть другие соцсети
-  # - icon: brands/telegram
-  #   url: https://t.me/username
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/in/username/
+  - icon: "envelope"
+    icon_pack: "fas"
+    url: "mailto:1032253633@rudn.ru"
+    label: "Email"
+
+  - icon: "github"
+    icon_pack: "fab"
+    url: "https://github.com/tsypinda"
+    label: "GitHub"
+
+  - icon: "book" # Временная замена для eLibrary
+    icon_pack: "fas"
+    url: "https://elibrary.ru/"
+    label: "eLibrary"
+
+  - icon: "graduation-cap" # Временная замена для Google Scholar
+    icon_pack: "fas"
+    url: "https://scholar.google.com/"
+    label: "Google Scholar"
+
+  - icon: "orcid"
+    icon_pack: "fab"
+    url: "https://orcid.org/"
+    label: "ORCID"
+
+  - icon: "book"
+    icon_pack: "fas"
+    url: "https://www.mendeley.com/"
+    label: "Mendeley"
+
+  - icon: "researchgate"
+    icon_pack: "fab"
+    url: "https://www.researchgate.net/"
+    label: "ResearchGate"
+
+  - icon: "university" # Временная замена для Academia.edu
+    icon_pack: "fas"
+    url: "https://www.academia.edu/"
+    label: "Academia.edu"
+
+  - icon: "arxiv"
+    icon_pack: "ai"
+    url: "https://arxiv.org/"
+    label: "arXiv"
+
 
 interests:
   - Программная алгебра (SageMath)
